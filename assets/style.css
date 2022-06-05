@@ -8,6 +8,9 @@
     --font-medium: 1.6em;
     --font-normal: 1.2em;
     --font-short: 1em;
+    
+    --blue-color: #4478FF;
+    --grey-color: #3f3f3f;
 }
 
 html{
@@ -159,8 +162,8 @@ h5{
 /* Personal content */
 
 #personal{
-    background-color: rgb(65, 68, 255);
-    background-image: linear-gradient(#3f3f3f 10%, rgb(65, 68, 255) 0);
+    background-color: var(--blue-color);
+    background-image: linear-gradient(var(--grey-color) 10%, var(--blue-color) 0);
     color: white;
     padding: 0.5em 1em;
 }
@@ -206,7 +209,7 @@ h5{
     margin: 0em 15%;
     border-radius: 50%;
     box-sizing: border-box;
-    border: solid rgb(65, 68, 255) 5px;
+    border: solid var(--blue-color) 5px;
 }
 
 #nombre{
@@ -238,7 +241,7 @@ h5{
 }
 
 #profesional h3, #profesional h4{
-    color: rgb(65, 68, 255);
+    color: var(--blue-color);
 }
 
 #perfil p{
