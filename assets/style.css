@@ -201,15 +201,19 @@ h5{
 }
 
 #foto{
-    margin: 1em 0em 0em;
+    margin: 1em auto;
+    height: calc((10% - 1.5em)*2);
 }
 
 #foto > img{
-    width: 70%;
-    margin: 0em 15%;
+    display: block;
+    height: 100%;
+    margin: auto;
     border-radius: 50%;
     box-sizing: border-box;
     border: solid var(--blue-color) 5px;
+    /*aspect-ratio: 1 / 1; /* Propiedad experimental, poner valores absolutos si no funciona */
+    object-fit: cover;
 }
 
 #nombre{
