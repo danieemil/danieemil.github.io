@@ -11,9 +11,9 @@ There's still a lot to do, so I usually update my portfolio in my free time impr
 
 
 
-## I want to help
+## Do you want to help
 
-This is a personal proyect with self benefit only, but I always appreciate a constructive opinion, a good advice to improve the source code, or any problem or bug indication that may have the portfolio.
+Sorry, but this is a personal proyect with self benefit only, but I always appreciate a constructive opinion, a good advice to improve the source code, or any problem or bug indication that may have the portfolio.
 
 ---
 
