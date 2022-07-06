@@ -1,11 +1,36 @@
-Bienvenido a mi página de Github.
+# Wellcome to my portfolio
 
-En este sitio web se encuentra mi Currículum web, donde podrá ver mi experiencia, formación y habilidades a lo largo de mi trayectoria académica y profesional.
-En este momento estoy buscando trabajo, así que sientase libre de contactarme por motivos de trabajo.
+This is my repository where you can find the source files of my web portfolio.
+I use the Phantom design from HTML5 UP as a boilerplate and customize it to make my own portfolio.
+
+
+
+## Work in progress
+
+There's still a lot to do, so I usually update my portfolio in my free time improving the source code or adding interesting proyects that i've developped.
+
+
+
+## I want to help
+
+This is a personal proyect with self benefit only, but I always appreciate a constructive opinion, a good advice to improve the source code, or any problem or bug indication that may have the portfolio.
 
 ---
 
-Welcome to my Github page.
+## Credits
 
-In this website you'll find my web resume, where you can take look at my experience, education and skills.
-I'm looking for a job right now so feel free to contact me.
+PHANTOM:
+
+[html5up.net](https://html5up.net/) | [@ajlkn](https://twitter.com/ajlkn?lang=es)
+
+Free for personal and commercial use under the CCA 3.0 license. [html5up.net/license](html5up.net/license)
+
+ICONS:
+
+[Font Awesome](https://fontawesome.com/)
+
+OTHERS:
+	
+[jQuery](jquery.com)
+
+[Responsive Tools](github.com/ajlkn/responsive-tools)
