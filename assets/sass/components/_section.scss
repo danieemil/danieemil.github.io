@@ -17,6 +17,19 @@
 			margin-top: _size(element-margin) * -0.5;
 		}
 
+		&.introduction {
+
+			#intro_t {
+				width: 75%;
+
+				@include breakpoint('<=small') {
+					width: 100%;
+				}
+				
+			}
+
+		}
+
 		@include breakpoint('<=small') {
 			p {
 				margin-top: 0;

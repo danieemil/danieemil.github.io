@@ -17,6 +17,11 @@
 			display: block;
 		}
 
+		figcaption {
+			@include padding(1em, 0, (0, 0, -1em, 0));
+			text-align: right;
+		}
+
 		&.left,
 		&.right {
 			@include breakpoint('>small') {

@@ -23,7 +23,7 @@ PHANTOM:
 
 [html5up.net](https://html5up.net/) | [@ajlkn](https://twitter.com/ajlkn?lang=es)
 
-Free for personal and commercial use under the CCA 3.0 license. [html5up.net/license](html5up.net/license)
+Free for personal and commercial use under the CCA 3.0 license. [html5up.net/license](https://html5up.net/license)
 
 ICONS:
 
@@ -31,6 +31,6 @@ ICONS:
 
 OTHERS:
 	
-[jQuery](jquery.com)
+[jQuery](https://jquery.com/)
 
-[Responsive Tools](github.com/ajlkn/responsive-tools)
+[Responsive Tools](https://github.com/ajlkn/responsive-tools)

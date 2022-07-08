@@ -1390,6 +1390,14 @@ section.special, article.special {
 header p {
   margin-top: -1em;
 }
+header.introduction #intro_t {
+  width: 75%;
+}
+@media screen and (max-width: 736px) {
+  header.introduction #intro_t {
+    width: 100%;
+  }
+}
 @media screen and (max-width: 736px) {
   header p {
     margin-top: 0;
@@ -1624,7 +1632,7 @@ form > .fields > .field.half {
   width: calc(50% - 0.75em);
 }
 form > .fields > .field.third {
-  width: calc(100%/3 - 0.5em);
+  width: calc(33.3333333333% - 0.5em);
 }
 form > .fields > .field.quarter {
   width: calc(25% - 0.375em);
@@ -1826,6 +1834,10 @@ input[type=radio] + label:before {
 .image img {
   border-radius: 4px;
   display: block;
+}
+.image figcaption {
+  padding: 1em 0 0.1em 0;
+  text-align: right;
 }
 @media screen and (min-width: 737px) {
   .image.left, .image.right {
